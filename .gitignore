@@ -1,0 +1,22 @@
+# --- Unity Folders to Ignore ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# --- Visual Studio / IDE Files ---
+.vs/
+.vscode/
+.vsconfig
+*.csproj
+*.sln
+*.slnx
+*.unitypackage
+*.userprefs
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db
